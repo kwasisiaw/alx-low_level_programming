@@ -2,6 +2,7 @@
 
 /**
  * This function only prints out something
+ * Return: It returns nothing
  */
 int main(void)
 {
